@@ -8,7 +8,7 @@
 - Log4j with html and text logs
 
 ### Initial Setup: 
-- Install and configure [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html) 
+- Install and configure [JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)
 - Install and configure [Maven](https://maven.apache.org/download.cgi)
 - Setup your IDE (Preferably [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows))
 - Add api related objects under *apis* package
